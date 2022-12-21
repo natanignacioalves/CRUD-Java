@@ -1,12 +1,19 @@
-# CRUD Java SE com MySQL
-## CRUD em Java SE com MySQL, cadastro de usuário, usando JTable
+# CRUD-Java com MySQL
 
-Um aplicação básica usando o banco de dados MySQL, nela contém um CRUD usando JTables e outros componentes graficos do Swing toolkit em Java. No qual e feito pesquisa, inserção, atualização ao clicar em algum item da linha do JTable, e remover item.
+<h2>Descrição</h2>
 
-## CRUD in Java SE with MySQL, user registry, using JTable
+<p>Aplicação básica em Java integrado com MySQL ultilizando a plataforma NetBeans, contém um CRUD usando JTables e outros componentes graficos do Swing toolkit, no qual é feito pesquisa, inserção, atualização ao clicar em algum item da linha do JTable, e remover item.</p> 
+<p>Desenvolvido no SENAI Londrina Paraná. </p>
 
-A basic application using the MySQL database, it contains a CRUD using JTables and other graphical components of the Swing toolkit in Java. In which is done search, insert, update when clicking on some item of the line of JTable, and remove item.
+<h2>Linguagens e Ferramentas Usadas</h2>
 
+<ul>
+  <li>Java</li> 
+  <li>MySQL</li>
+  <li>NetBeans</li>
+</ul>
+
+<h2>Database</h2>
 
 ```sql
 create database db_usuario;
